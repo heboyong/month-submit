@@ -33,7 +33,7 @@ pip install tqdm
 
 # 3. data pross
 
-$\color{red}{Notice: For month level task, we follow the same settings in week level task, both dataset and methods.}
+*Notice: For month level task, we follow the same settings in week level task, both dataset and methods.*
 We only use 30% labels of selected week level dataset to train our model.
 
 （1）Place the training set in the `data/train` folder and unzip it.
